@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-~~~
+```
 home1.html
 
 <!DOCTYPE html>
@@ -672,7 +672,7 @@ contactus.html
     </div>
 </body>
 </html>
-~~~
+```
 ## OUTPUT:
 ![WhatsApp Image 2023-12-27 at 01 21 43_1b834c9b](https://github.com/BHARATHI20MK/productcompanywebsite/assets/147474125/21f89259-9c93-4775-95d5-4c6df0f6b7fb)
 
