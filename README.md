@@ -676,9 +676,7 @@ contactus.html
 ## OUTPUT:
 
 
-### Home Page:
-
-![output](./images/homepage.jpg)
+### Home Page;
 
 ## Result:
 
