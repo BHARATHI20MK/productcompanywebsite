@@ -674,9 +674,13 @@ contactus.html
 </html>
 ~~~
 ## OUTPUT:
+![WhatsApp Image 2023-12-27 at 01 21 43_1b834c9b](https://github.com/BHARATHI20MK/productcompanywebsite/assets/147474125/21f89259-9c93-4775-95d5-4c6df0f6b7fb)
 
+![WhatsApp Image 2023-12-27 at 01 21 04_329d0c7f](https://github.com/BHARATHI20MK/productcompanywebsite/assets/147474125/2ec96027-6d4d-4927-b5fd-85e34d782c05)
 
-### Home Page;
+![WhatsApp Image 2023-12-27 at 01 21 04_25f8b607](https://github.com/BHARATHI20MK/productcompanywebsite/assets/147474125/42622a46-aa68-4da6-ba6b-7a107973ff0b)
+
+![WhatsApp Image 2023-12-27 at 01 21 24_80b39800](https://github.com/BHARATHI20MK/productcompanywebsite/assets/147474125/4b5d22a0-377c-4ac2-9eef-d784dcead2cf)
 
 ## Result:
 
